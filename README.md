@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waynemorphic
+- 👋 Hi, I’m @wayne_kirimi
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning Java and later Kotlin
 - 💞️ I’m looking to collaborate on any project to learn Java fundamentals
