@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wayne_kirimi
-- 👀 I’m interested in android and IOS development
-- 🌱 I’m currently learning Java, Javascript and later Kotlin and Swift
-- 💞️ I’m looking to collaborate on any project to learn Java fundamentals
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript, Typesript, Angular, Python, Django, Flask and PostgreSQL
+- 💞️ I’m looking to collaborate on any Web2.0 project
 - 📫 How to reach me kirimiwayne@gmail.com
 
 <!---
