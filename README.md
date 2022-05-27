@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wayne_kirimi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, Typesript, Angular, Python, Django, Flask and PostgreSQL
+- 🌱 I’m adept in HTML 5, CSS, jQuery, Bootstrap, Tailwind CSS, Javascript, Typesript, AngularJS, Python, Django, Flask and PostgreSQL
 - 💞️ I’m looking to collaborate on any Web2.0 project
 - 📫 How to reach me kirimiwayne@gmail.com
 
