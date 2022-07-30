@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Wayne+Kirimi;I+am+a+Full+Stack+Web+Developer;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;My+name+is+Wayne+Kirimi;I+am+a+Full+Stack+Web+Developer;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=waynemorphic)
 
 
