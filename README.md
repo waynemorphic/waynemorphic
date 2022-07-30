@@ -5,6 +5,7 @@
 - 📫 How to reach me kirimiwayne@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=waynemorphic)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waynemorphic)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 waynemorphic/waynemorphic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
