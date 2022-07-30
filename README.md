@@ -9,13 +9,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynemorphic&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waynemorphic&repo=my-portfolio&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waynemorphic&repo=my-portfolio&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waynemorphic&repo=github-search&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waynemorphic&repo=github-search&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waynemorphic&repo=my-pitch&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waynemorphic&repo=pizzeria&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waynemorphic&repo=my-pitch&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waynemorphic&repo=pizzeria&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=waynemorphic&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
