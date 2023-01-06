@@ -7,7 +7,6 @@
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=waynemorphic&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynemorphic&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waynemorphic&repo=encode-decode-java&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waynemorphic&repo=github-search&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
