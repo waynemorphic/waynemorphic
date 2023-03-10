@@ -4,9 +4,10 @@
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=waynemorphic&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waynemorphic&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waynemorphic&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waynemorphic&langs_count=8&hide_progress=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
