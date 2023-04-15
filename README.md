@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <h2 align="center">Who am I:question:</h2>
   <p align="center">
     <samp>
-     🏫 My name is Wayne Kirimi. I am hands-on software engineer based in Nairobi, Kenya, with over two years experience      in building and mantaining highly scalable and available software and web applications. I enjoy testing software as      much as I love developing them. Wayne is enthusiastic about finding optimal solutions to problems using software        tooling.
+     🏫 My name is Wayne Kirimi. I am a hands-on software engineer based in Nairobi, Kenya, with over two years experience in building and maintaining highly scalable and available software and web applications. I secretly enjoying writing unit, integration and end to end tests. Wayne is enthusiastic about finding optimal solutions to problems using software tools.
     </samp>
   </p>
   <p align="center">
@@ -35,7 +35,9 @@ You can click the Preview link to take a look at your changes.
      <p>:small_blue_diamond: MySQL, PostgreSQL</p>
      <p>:small_blue_diamond: Apache: Camel, Kafka</p>
      <p>:small_blue_diamond: ActiveMQ</p>
+     <p>:small_blue_diamond: Jenkins</p>    
      <p>:small_blue_diamond: Liquid, Hydrogen (Shopify)</p>
+     <p>:small_blue_diamond: JUnit, Mockito, Playwright, Jest, JBehave</p>
   </samp>
 </section>
 
