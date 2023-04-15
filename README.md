@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <h2 align="center">Who am I:question:</h2>
   <p align="center">
     <samp>
-     🏫 My name is Wayne Kirimi. I am a hands-on software engineer based in Nairobi, Kenya, with over two years experience in building and maintaining highly scalable and available software and web applications. I secretly enjoying writing unit, integration and end to end tests. Wayne is enthusiastic about finding optimal solutions to problems using software tools.
+     🏫 My name is Wayne Kirimi. I am a hands-on software engineer based in Nairobi, Kenya, with over two years experience in building and maintaining highly scalable and available software and web applications. I secretly enjoy writing unit, integration and end to end tests. Wayne is always chasing the thrill of finding and fixing bugs and ever enthusiastic about finding optimal solutions to problems using software tools.
     </samp>
   </p>
   <p align="center">
