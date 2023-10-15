@@ -30,14 +30,13 @@ You can click the Preview link to take a look at your changes.
      <p>:small_blue_diamond: HTML5, CSS</p>
      <p>:small_blue_diamond: Tailwind & Bootstrap </p>
      <p>:small_blue_diamond: JavaScript, React Js </p>
-     <p>:small_blue_diamond: Java, Spring boot</p>
-     <p>:small_blue_diamond: Python, Django</p>
+     <p>:small_blue_diamond: Java, Kotin, Spring boot</p>
      <p>:small_blue_diamond: MySQL, PostgreSQL</p>
-     <p>:small_blue_diamond: Apache: Camel, Kafka</p>
+     <p>:small_blue_diamond: Apache: Camel</p>
      <p>:small_blue_diamond: ActiveMQ</p>
      <p>:small_blue_diamond: Jenkins</p>    
      <p>:small_blue_diamond: Liquid, Hydrogen (Shopify)</p>
-     <p>:small_blue_diamond: JUnit, Mockito, Playwright, Jest, JBehave</p>
+     <p>:small_blue_diamond: JUnit, Mockito, Jest</p>
   </samp>
 </section>
 
