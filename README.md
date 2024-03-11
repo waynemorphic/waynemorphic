@@ -27,8 +27,8 @@ You can click the Preview link to take a look at your changes.
 <section>
   <h2 align="center">Tools :computer:</h2>
   <samp>
-     <p>:small_blue_diamond: JavaScript, React Js </p>
      <p>:small_blue_diamond: Java, Kotlin, Spring Boot </p>
+     <p>:small_blue_diamond: JavaScript, React Js </p>
      <p>:small_blue_diamond: Golang, Gin</p>
      <p>:small_blue_diamond: QA </p>
   </samp>
