@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 </header>
 
 <section>
-  <h2 align="center">Who am I:question:</h2>
+  <h2 align="center">Who am I :question:</h2>
   <p align="center">
     <samp>
-     🏫 My name is Wayne Kirimi. I am a hands-on software engineer based in Nairobi, Kenya, with over two years experience in building and maintaining highly scalable and available software and web applications. I secretly enjoy writing unit, integration and end to end tests. Wayne is always chasing the thrill of finding and fixing bugs and ever enthusiastic about finding optimal solutions to problems using software tools.
+     🏫 My name is Wayne Kirimi. I am a hands-on software engineer based in Nairobi, Kenya, with over two years of experience building and maintaining highly scalable and available software. 
     </samp>
   </p>
   <p align="center">
@@ -27,16 +27,10 @@ You can click the Preview link to take a look at your changes.
 <section>
   <h2 align="center">Tools :computer:</h2>
   <samp>
-     <p>:small_blue_diamond: HTML5, CSS</p>
-     <p>:small_blue_diamond: Tailwind & Bootstrap </p>
      <p>:small_blue_diamond: JavaScript, React Js </p>
-     <p>:small_blue_diamond: Java, Kotlin, Spring boot</p>
-     <p>:small_blue_diamond: MySQL, PostgreSQL</p>
-     <p>:small_blue_diamond: Apache: Camel</p>
-     <p>:small_blue_diamond: ActiveMQ</p>
-     <p>:small_blue_diamond: Jenkins</p>    
-     <p>:small_blue_diamond: Liquid, Hydrogen (Shopify)</p>
-     <p>:small_blue_diamond: JUnit, Mockito, Jest</p>
+     <p>:small_blue_diamond: Java, Kotlin, Spring Boot </p>
+     <p>:small_blue_diamond: Golang, Gin</p>
+     <p>:small_blue_diamond: QA </p>
   </samp>
 </section>
 
